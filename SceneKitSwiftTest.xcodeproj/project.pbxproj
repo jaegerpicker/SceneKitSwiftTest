@@ -34,6 +34,7 @@
 		2905CF7F193D7A7500453435 /* SceneKitSwiftTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SceneKitSwiftTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2905CF84193D7A7500453435 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2905CF85193D7A7500453435 /* SceneKitSwiftTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneKitSwiftTestTests.swift; sourceTree = "<group>"; };
+		2905CF8F193E11FC00453435 /* SceneKitSwiftTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SceneKitSwiftTest.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		2905CF64193D7A7500453435 = {
 			isa = PBXGroup;
 			children = (
+				2905CF8F193E11FC00453435 /* SceneKitSwiftTest.playground */,
 				2905CF6F193D7A7500453435 /* SceneKitSwiftTest */,
 				2905CF82193D7A7500453435 /* SceneKitSwiftTestTests */,
 				2905CF6E193D7A7500453435 /* Products */,
